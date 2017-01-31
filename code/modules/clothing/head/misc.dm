@@ -276,6 +276,13 @@
 	body_parts_covered = 0
 	flags_inv = BLOCKHAIR
 
+/obj/item/clothing/head/hijabnavy
+	name = "navy hijab"
+	desc = "A veil which is wrapped to cover the head, this one comes with a navy utility cover."
+	icon_state = "hijabnavy"
+	body_parts_covered = 0
+	flags_inv = BLOCKHAIR	
+
 /obj/item/clothing/head/kippa
 	name = "kippa"
 	desc = "A small, brimless cap."
