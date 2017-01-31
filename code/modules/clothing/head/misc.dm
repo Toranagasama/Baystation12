@@ -279,7 +279,7 @@
 /obj/item/clothing/head/hijabnavy
 	name = "navy hijab"
 	desc = "A veil which is wrapped to cover the head, this one comes with a navy utility cover."
-	icon_state = "hijabnavy"
+	icon_state = "hijab"
 	body_parts_covered = 0
 	flags_inv = BLOCKHAIR	
 
